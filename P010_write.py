@@ -1,5 +1,0 @@
-file1 = open("try.txt","w")
-file1.write("Icecube")
-file1.write("\nMarshell")
-file1.write("\nFire")
-file1.close()
